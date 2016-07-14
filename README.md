@@ -11,5 +11,7 @@
 500 EXP - hatching any egg.
 
 500 EXP - add a new pokemon to the pokedex.
+
 50 EXP - pick up items from a pokestop.
+
 100 EXP - per pokemon defeated in an enemy gym.

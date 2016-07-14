@@ -8,9 +8,11 @@
 
 500 EXP - evolving any pokemon.
 
-500 EXP - hatching any egg.
+200 EXP - hatching a 2km egg.
 
-500 EXP - add a new pokemon to the pokedex.
+500 EXP - hatching a 5km egg.
+
+500 EXP - add a new pokemon to the pokedex. (catch, hatch, or evolve)
 
 50 EXP - pick up items from a pokestop.
 

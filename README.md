@@ -4,7 +4,7 @@
 
 50 EXP - bonus for a "great" throw.
 
-??? EXP - bonus for an "excellent" throw.
+100 EXP - bonus for an "excellent" throw.
 
 500 EXP - evolving any pokemon.
 
